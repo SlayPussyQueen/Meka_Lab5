@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/ros2_ur_ws/_deps/threepp-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ros2_moveit_ur_demo" vcs="Git" />
   </component>
 </project>
